@@ -6,7 +6,7 @@
 <br><br>
 ⭐️ [PoE Tic Tac Toe React](https://poe-tic-tac-toe.razielini.dev/)
 <br><br>
-⭐️ [PoR Divination Card Nuxt](https://divination-card-poe.netlify.app/)
+⭐️ [PoE Divination Card Nuxt](https://divination-card-poe.netlify.app/)
 
 <!--
 **Razielini/razielini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
